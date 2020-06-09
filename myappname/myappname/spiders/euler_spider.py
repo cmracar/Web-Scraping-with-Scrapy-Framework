@@ -1,3 +1,4 @@
+# Cemre ACAR - www.cemreacar.com
 import scrapy
 
 class EulerSpider(scrapy.Spider):
